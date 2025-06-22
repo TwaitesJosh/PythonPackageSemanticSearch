@@ -48,11 +48,12 @@ search("plot graphs")
 
 ## Data
 
-The package data is split into 4 files due to GitHub size limits:
+The package data is split into 5 files due to GitHub size limits:
 - `python_packages_part1.csv`
 - `python_packages_part2.csv` 
 - `python_packages_part3.csv`
 - `python_packages_part4.csv`
+- `python_packages_part5.csv`
 
 The notebook automatically combines these on load.
 
@@ -66,6 +67,7 @@ This is an **MVR (Minimum Viable Research)** project - the simplest possible imp
 - No web interface
 - No package ranking beyond semantic similarity
 - Only uses the summary of the packages
+- It kind of sucks
 
 **Why it's still useful:**
 - Kind of solves the core problem
